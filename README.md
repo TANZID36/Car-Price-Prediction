@@ -1,4 +1,3 @@
-# Car-Price-Prediction
-Car Price Predicition Using Machine Learning
+# Car-Price-Prediction-Using-Machine_Learning
 
 Using Linear and Lasso Regression Model
